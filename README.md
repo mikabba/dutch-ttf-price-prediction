@@ -7,3 +7,5 @@ Utilizzo:
 * Specificare la configurazione desiderata all'interno del file `config.py`
 * Lo script può essere lanciato tramite riga di comando: `python main.py` oppure tramite un IDE compatibile
 * L'output delle predizioni si troverà al percorso `/output/predictions.csv`
+
+All'interno della directory `notebooks` sono presenti tre quaderni che spiegano più nel dettaglio come è stata scelta la configurazione degli algoritmi utilizzati all'interno del progetto.
