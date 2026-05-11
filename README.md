@@ -182,7 +182,7 @@ venv\Scripts\activate
 Install the main dependencies:
 
 ```bash
-pip install pandas numpy scikit-learn tensorflow keras torch transformers scipy matplotlib prophet
+pip install -r requirements.txt
 ```
 
 Depending on the local Python version and hardware configuration, TensorFlow or PyTorch installation may require additional setup.
