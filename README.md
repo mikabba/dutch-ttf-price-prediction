@@ -469,18 +469,6 @@ The `notebooks/` directory contains the experimental notebooks used during the p
 
 ---
 
-## 14. Documentation
-
-The full academic report is available in:
-
-```text
-reports/Relazione_AIML_Abbaticchio_Battista_Catucci.pdf
-```
-
-The report includes the motivation, dataset construction, scraping process, BERT embedding strategy, recurrent model design, experimental setup, quantitative results and final considerations.
-
----
-
 ## 15. Future work
 
 Possible extensions include:
